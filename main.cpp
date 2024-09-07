@@ -7,7 +7,7 @@
 #include <HTTPClient.h>
 #include <Wire.h>
 #include "epd_driver.h"
-#include "./font/FiraSans.h"
+#include "font/firasans.h"
 #include "pins.h"
 
 int cursor_x = 20;
